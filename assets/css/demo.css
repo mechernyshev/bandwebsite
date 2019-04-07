@@ -1,0 +1,9 @@
+/*
+    This CSS resource incorporates links to font software which is the valuable copyrighted property of Monotype and/or its suppliers. You may not attempt to copy, install, redistribute, convert, modify or reverse engineer this font software. Please contact Monotype with any questions regarding Web Fonts:  http://www.fonts.com
+*/
+
+@font-face{
+        font-family:"Celtics Modern W03 Light";
+        src:url("../Fonts/1444833/c943b36b-8ea1-4ae1-8456-dc8e94e76f32.eot?#iefix");
+        src:url("../Fonts/1444833/c943b36b-8ea1-4ae1-8456-dc8e94e76f32.eot?#iefix") format("eot"), url("../Fonts/1444833/ac9cc585-704f-40f3-8d1d-2c55d39bce60.woff2") format("woff2"),url("../Fonts/1444833/f777f375-78ac-4414-8374-5809093d9587.woff") format("woff"),url("../Fonts/1444833/8722b021-13cb-44b9-b2ae-e9344499d9be.ttf") format("truetype");
+}
